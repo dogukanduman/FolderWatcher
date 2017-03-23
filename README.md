@@ -1,7 +1,7 @@
 # FolderWatcher
 Simple folder event listening class. You can easily track and handle DELETE,CREATE and MODIFY events. 
 
-##Code Sample
+Code Sample
 ```
 new FolderWatcher(new FolderWatcherDelegate(){
 
